@@ -14,11 +14,11 @@ spring:
           clone-submodules: true
           force-pull: true
 
-  rabbitmq:
-    host: "localhost"
-    port: 5672
-    username: "guest"
-    password: "guest"
+#  rabbitmq:
+#    host: "localhost"
+#    port: 5672
+#    username: "guest"
+#    password: "guest"
 #       native:
 #       search-locations: "classpath:/config"
 
